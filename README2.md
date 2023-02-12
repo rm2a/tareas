@@ -1,1 +1,5 @@
 # tareas tarea2
+# [200~la solucion a mi tarea fue: investigar el lenguaje de javascript y los usos de prompt, length, alert, sort, join, touppercase. 
+# hola
+# la solucion a mi tarea fue, investigar el lenguaje de javascript y los usos de prompt, length, alert, sort, join, touppercase. al definir las palabras clave, las apegue a mi algoritmo hecho previamente en donde pude definir como usarlas de maneraordenada y correcta.
+# el algorito es el siguiente: pedir palabra 1, pedir palabra 2, si las dos palabras tienen el mismo numero de letras mostrar mensaje las dos tienen la misma longitud y mostrar numero de letras, si la palabra 1 es mayor que la palabra 2 mostrar una alerta la primera palabra es mas larga mas el numero de caracteres, si la palabra 2 es mayor a la palabra 1 mostrar una alerta la segunda palabra es mas larga mas el numero de caracteres, ordenar las palabras en orden alfabetico y mostrar una alerta con las dos palabras, mostrar palabra mas corta y convertirla en MAYUSCULA con una alerta, terminar.. la realizacion de la actividad 2 la mayor parte fue de investigacion. a prueba y error
